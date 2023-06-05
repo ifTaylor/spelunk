@@ -1,0 +1,2 @@
+$ g++ .\cppspelunk.cpp -o cppspelunk
+$

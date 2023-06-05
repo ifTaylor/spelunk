@@ -1,0 +1,2 @@
+$ dotnet tool install -g dotnet-script
+$ dotnet script .\Spelunk.cs
